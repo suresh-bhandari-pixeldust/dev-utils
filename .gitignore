@@ -1,12 +1,14 @@
-# macOS / Linux
+# OS
 .DS_Store
+Thumbs.db
 
-# Editors
+# Editors / IDEs
 .vscode/
 .idea/
 *.swp
+*.swo
 
-# Env files
+# Environment files
 .env
 .env.*
 
@@ -15,7 +17,7 @@ __pycache__/
 *.pyc
 .venv/
 
-# Node
+# JavaScript / Node
 node_modules/
 dist/
 coverage/
